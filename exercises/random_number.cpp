@@ -12,5 +12,5 @@
 int main(){
   srand(time(0));
 
-  std::cout << "The random number is: " << rand()s;
+  std::cout << "The random number is: " << rand();
 }
